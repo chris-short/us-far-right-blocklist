@@ -68,6 +68,7 @@
 *.toddstarnes.com
 *.townhall.com
 *.townhallmedia.com
+*.tpusa.com
 *.truthsocial.com
 *.twitchy.com
 *.voanews.com
